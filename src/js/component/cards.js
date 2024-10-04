@@ -14,7 +14,7 @@ Explora recursos interactivos y experimentos que te ayudarán a entender desde l
       <div className='col-12 col-md-6 col-lg-3'>
       
         <Card imageUrl="https://cdn.pixabay.com/photo/2012/04/12/13/36/microscope-30064_1280.png"
-          cardTitle="Biología"
+          cardTitle="BIOLOGÍA"
           cardText="Explora la Vida a Nivel Celular.
 Sumérgete en el fascinante mundo de la biología con recursos sobre anatomía, ecología y microbiología.
  Descubre modelos 3D, simulaciones y actividades que te ayudarán a entender desde el funcionamiento de una célula hasta los ecosistemas completos."/>
